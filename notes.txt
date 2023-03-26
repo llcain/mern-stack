@@ -1,0 +1,2 @@
+To run nodemon - npx nodemon [name of file]
+https://www.youtube.com/watch?v=jA7eczg-dTc  - Install nodemon
