@@ -1,2 +1,9 @@
-To run nodemon - npx nodemon [name of file]
+create repository
+create backend folder
+in backend - create server.js file
+cd in backend folder - npm init -y
+To run nodemon on server.js - npx nodemon [name of file]
+in package.json file under scripts - create 'dev': "nodemon server.js"
+then to run nodemon server.js file without having to restart the server - npm rn dev
 https://www.youtube.com/watch?v=jA7eczg-dTc  - Install nodemon
+Google - error user is not allowed to do action insert on test.users - https://stackoverflow.com/questions/46649390/mongoerror-user-is-not-allowed-to-do-action - in "built-in-role", select Atlas admin
