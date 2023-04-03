@@ -7,3 +7,5 @@ in package.json file under scripts - create 'dev': "nodemon server.js"
 then to run nodemon server.js file without having to restart the server - npm rn dev
 https://www.youtube.com/watch?v=jA7eczg-dTc  - Install nodemon
 Google - error user is not allowed to do action insert on test.users - https://stackoverflow.com/questions/46649390/mongoerror-user-is-not-allowed-to-do-action - in "built-in-role", select Atlas admin
+Google -  mern stack developer resume - https://www.freelancermap.com/blog/what-does-mern-stack-developer-do/
+Google - MERN stack projects with source code - https://github.com/iamshaunjp/MERN-Stack-Tutorial/pull/7 - Mern app with net ninja
