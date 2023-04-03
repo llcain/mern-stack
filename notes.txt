@@ -10,3 +10,4 @@ Google - error user is not allowed to do action insert on test.users - https://s
 Google -  mern stack developer resume - https://www.freelancermap.com/blog/what-does-mern-stack-developer-do/
 Google - MERN stack projects with source code - https://github.com/iamshaunjp/MERN-Stack-Tutorial/pull/7 - Mern app with net ninja
 Google - react hook useeffect has a missing dependency - https://stackoverflow.com/questions/55840294/how-to-fix-missing-dependency-warning-when-using-useeffect-react-hook
+Google - onclick in react - https://blog.logrocket.com/react-onclick-event-handlers-guide/#:~:text=The%20React%20onClick%20event%20handler,onClick%20in%20a%20React%20app.
