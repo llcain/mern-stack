@@ -9,3 +9,4 @@ https://www.youtube.com/watch?v=jA7eczg-dTc  - Install nodemon
 Google - error user is not allowed to do action insert on test.users - https://stackoverflow.com/questions/46649390/mongoerror-user-is-not-allowed-to-do-action - in "built-in-role", select Atlas admin
 Google -  mern stack developer resume - https://www.freelancermap.com/blog/what-does-mern-stack-developer-do/
 Google - MERN stack projects with source code - https://github.com/iamshaunjp/MERN-Stack-Tutorial/pull/7 - Mern app with net ninja
+Google - react hook useeffect has a missing dependency - https://stackoverflow.com/questions/55840294/how-to-fix-missing-dependency-warning-when-using-useeffect-react-hook
