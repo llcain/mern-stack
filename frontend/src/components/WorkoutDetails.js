@@ -1,5 +1,6 @@
 import { useWorkoutsContext } from "../hooks/useWorkoutsContext";
 
+
 const WorkoutDetails = ({ workout }) => {
     const { dispatch } = useWorkoutsContext()
 

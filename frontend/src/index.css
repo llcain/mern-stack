@@ -67,6 +67,13 @@ header a {
   color: #333;
 }
 
+.workout-details span {
+  background-color: #1aac83;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+}
+
 /* new workout form */
 label, input {
   display: block;
@@ -89,6 +96,9 @@ form button {
   border-radius: 4px;
   cursor: pointer;
 }
+
+
+
 div.error {
   padding: 10px;
   background: #ffefef;
